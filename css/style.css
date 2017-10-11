@@ -1,11 +1,5 @@
-.image {
-   position: relative;
-   width: 100%; /* for IE 6 */
-}
-
-h2 {
-   position: absolute;
-   top: 200px;
-   left: 0; 
-   width: 100%;
-}
+.imageContainer {
+       width:200px;
+       height:200px;
+       background-image:<img src="images/bigpizza.jpg";
+ }
