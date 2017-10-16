@@ -1,7 +1,7 @@
 #hero{
   min-height: 100px;
   background-color: red;
-  background-image: img src="images/bigpizza.jpg";
+  background-image:src="images/bigpizza.jpg";
   background-repeat: no-repeat;
   background-position: center;
 }
