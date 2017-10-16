@@ -1,9 +1,17 @@
+#hero{
+  min-height: 100px;
+  background-color: red;
+  background-image: img src="images/bigpizza.jpg";
+  background-repeat: no-repeat;
+  background-position: center;
+}
 
-h2 {
-   position: absolute;
-   top: 200px;
-   left: 100px;
-   width: 100%;
+#hero h1{
+  color: white;
+  text-align: left;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 
 @media only screen and (min-width: 768px) {
   .sticky_header{
