@@ -1,5 +1,5 @@
 #hero{
-  min-height: 100px;
+  min-height: 500px;
   background-color: red;
   background-image:"images/bigpizza.jpg";
   background-repeat: no-repeat;
@@ -9,8 +9,8 @@
 #hero h1{
   color: white;
   text-align: left;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 500px;
+  padding-bottom: 500px;
 }
 
 @media only screen and (min-width: 768px) {
