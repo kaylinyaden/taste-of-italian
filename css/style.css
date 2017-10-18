@@ -49,3 +49,12 @@ li a:hover:not(.active) {
     border: 2px solid #ffffff;
     text-decoration: none;
 }
+
+.container {
+  padding-top: 30px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
