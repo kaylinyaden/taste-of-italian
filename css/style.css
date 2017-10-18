@@ -2,8 +2,8 @@
   background-image: url("../images/bigpizza.jpg");
   background-size: 1500px 960px;
   background-repeat: no-repeat;
-  background-position: center;
-  top:0px
+  background-position: top;
+  background-attachment: fixed;
 }
 
 #hero h1{
