@@ -1,7 +1,6 @@
 #hero{
   background-color: red;
   background-image: url("../images/bigpizza.jpg");
-  background-size: 1024px 768px;
   background-repeat: no-repeat;
   background-position: center;
 }
