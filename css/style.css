@@ -7,8 +7,7 @@
 
 #hero h1{
   color: white;
-  font-family: 'Montserrat', sans-serif;
-  font-style: 400;
+  font-family: 'Montserrat:400', sans-serif;
   font-size: 75px;
   text-align: left;
   padding-top: 250px;
@@ -34,8 +33,7 @@ li {
 
 li a {
     display: block;
-    font-family: 'Montserrat', sans-serif;
-    font-style: 100;
+    font-family: 'Montserrat:100', sans-serif;
     color: white;
     text-align: center;
     padding: 14px 16px;
