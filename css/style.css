@@ -4,7 +4,6 @@
   background-repeat: no-repeat;
   background-position: top;
   background-attachment: fixed;
-  padding-top: 0px
 }
 
 #hero h1{
@@ -25,7 +24,7 @@ ul {
     overflow: hidden;
     background-color: #00ffffff;
     position: fixed;
-    top: 0px;
+    top: 10px;
     width: 100%;
 }
 
