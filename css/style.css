@@ -70,9 +70,10 @@ h2 {
 
 }
 #bannerimage {
-  width: 50%;
+  width: 100%;
   background-image: url(../images/headerravioli.jpg);
-  height: 205px;
+  background-size: 1300px 200px;
+  height: 200px;
   background-color: white;
   background-position: center;
 }
