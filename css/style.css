@@ -54,7 +54,9 @@ li a:hover:not(.active) {
 }
 
 .container {
-  padding-top: 30px
+  padding-top: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 img {
@@ -79,7 +81,7 @@ h2 {
 }
 
 .tomatos{
-  margin-left: 140px;
+  margin-left: 200px;
   margin-right: 20px;
 }
 .noodles{
@@ -90,19 +92,41 @@ h2 {
   margin-right: 200px;
 }
 
-.titleabout {
-  margin-top: 30px;
+.title {
+  margin-top: 50px;
+  margin-bottom: 30px;
   font-family: 'Montserrat:', sans-serif;
   font-weight: 900;
   text-align: center;
   font-size: 30px;
-
-
 }
 
-.paragraphabout {
+.paragraph {
   font-family: 'Montserrat:', sans-serif;
   font-weight: 100;
   text-align: center;
+  font-size: 15px;
+}
+.paragraphbold {
+  font-family: 'Montserrat:', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  font-size: 15px;
+  margin-top: 25px;
+  line-height: 200%;
+}
+.paragraphmenu {
+  font-family: 'Montserrat:', sans-serif;
+  font-weight: 100;
+  text-align: left;
+  font-size: 15px;
+  line-height: 200%;
+}
+.paragraphds {
+  font-family: 'Montserrat:', sans-serif;
+  font-weight: 100;
+  text-align: left;
   font-size: 20px;
+  line-height: 300%;
+  padding-top: 0px
 }
