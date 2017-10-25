@@ -107,22 +107,31 @@ h2 {
   text-align: center;
   font-size: 15px;
 }
-.paragraphbold {
+.menu-item {
+  margin-top: 25px;
+}
+.menu-item-name {
   font-family: 'Montserrat:', sans-serif;
   font-weight: 600;
   text-align: left;
   font-size: 15px;
-  margin-top: 25px;
-  line-height: 200%;
 }
-.paragraphmenu {
+
+.daily-specials-day {
+  font-family: 'Montserrat:', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  font-size: 20px;
+  line-height: 300%;
+  padding-top: 0px
+}
+.menu-item-description {
   font-family: 'Montserrat:', sans-serif;
   font-weight: 100;
   text-align: left;
   font-size: 15px;
-  line-height: 200%;
 }
-.paragraphds {
+.daily-specials-description {
   font-family: 'Montserrat:', sans-serif;
   font-weight: 100;
   text-align: left;
